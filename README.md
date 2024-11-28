@@ -1,8 +1,5 @@
-# Gemini Content Wizard
+# Gemini Content 
 
-## Demo video of the overall project
-
-https://www.youtube.com/watch?v=4B1qwMBQmLc
 
 ## Introduction
 
@@ -49,9 +46,6 @@ All outputs are displayed in a rich text format using `@toast-ui/react-editor`, 
 - **Shadcn UI**: A component library used to enhance the user interface.
 - **Neon Database**: A serverless Postgres database service used for storing user data and history.
 
-## Live Preview 
-
-https://gemini-content-wizard.vercel.app/
 
 ## Disclaimer
 
